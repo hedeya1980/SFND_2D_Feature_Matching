@@ -11,13 +11,13 @@ As a preparation for this, I built the feature tracking part and tested various 
 * Focusing on descriptor extraction and matching using brute force and also the FLANN approach that was discussed in the previous lesson. 
 * In the last part, testing the various algorithms in different combinations and comparing them with regard to some performance measures. 
 
-# Findings
+## Findings
 
 Here are my findings:
 
 ![image](https://user-images.githubusercontent.com/20546173/229633356-0e6880ca-1af0-45ad-9e9c-f8031131d8d7.png)
 
-# Demo
+## Demo
 Here is a GIF showing the project during runtime:
 
 <img src="https://raw.githubusercontent.com/hedeya1980/Images/main/2D_feature_tracking.gif" />
