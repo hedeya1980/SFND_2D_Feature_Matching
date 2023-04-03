@@ -11,7 +11,7 @@ As a preparation for this, I built the feature tracking part and tested various 
 * Then, focusing on descriptor extraction and matching using brute force and also the FLANN approach that was discussed in the previous lesson. 
 * In the last part, once the code framework is complete, testing the various algorithms in different combinations and comparing them with regard to some performance measures. 
 
-<img src=""https://raw.githubusercontent.com/hedeya1980/Images/main/2D_feature_tracking.gif />
+<img src="https://raw.githubusercontent.com/hedeya1980/Images/main/2D_feature_tracking.gif" />
 
 ## Dependencies for Running Locally
 * cmake >= 2.8
